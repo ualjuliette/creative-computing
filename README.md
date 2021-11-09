@@ -3,6 +3,6 @@
 <h2> this is what header 2 looks like
   
 *one* star *italicise*
-** two ** stars ** bolds **
+**two** stars **bolds** (I learnt this in WhatsApp)
   
 you can also write a > quote > 
