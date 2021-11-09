@@ -10,5 +10,5 @@ you can also write a > quote >
 - [] is  
   
 # i have no idea what is happening, but at least I'm trying :') 
-> let's try another blockquote 
-<br> > omg it worked im a genius
+> let's try another blockquote >
+> omg it worked im a genius
