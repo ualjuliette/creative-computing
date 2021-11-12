@@ -42,7 +42,11 @@ Pairing the concept of computation with design relieved some of my internal stre
 ![Strategy-Creative-Algorithm-Human-vs-Machine-Model-Green](https://user-images.githubusercontent.com/93985229/141434176-c9ed9a3c-fa1b-41b4-9f26-932f6b2d71cd.png)
 [Patrick Huebner](https://www.patrik-huebner.com/method)
 
-Here are some examples of using technology to produce generative art. 
+Here are some examples of artists using technology to produce generative art:
+
+*[Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
+*[
+  
 
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
   
