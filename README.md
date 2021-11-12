@@ -51,11 +51,11 @@ Pairing the concept of computation with design relieved some of my internal stre
 
 Here are some examples of contemporary new media artists using technology to produce generative art because show > tell:
   
-* [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
+* [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM) specialises in data-driven machine learning algorithms that create abstract, dream-like environments.
 
-{{<Data-driven machine learning algorithms that create abstract, dream-like environments. >}} ![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
+![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
   
-* [Mario Klingemann](https://quasimondo.com/)
+* [Mario Klingemann](https://quasimondo.com/) specialises in algorithms and artificial intelligence to create and investigate systems. 
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
   
