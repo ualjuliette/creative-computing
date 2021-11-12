@@ -47,6 +47,10 @@ Here are some examples of artists using technology to produce generative art:
 * [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
 
 ![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
+  
+* [Mario Klingemann](https://quasimondo.com/)
+
+![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
 
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
   
