@@ -14,12 +14,12 @@ Though, I would like to point out that I do not want perpetuate the scientific v
 
 The part where my perspective changed, was in realising the first word: **creative**. Creative computing. It kind of sounds nice and catchy together, perhaps due to the alliteration of the "c". Computing by itself does have a daunting level of mysticality and obfuscation to it, which can make it quite an alienating subject. The fact that it has not yet become normalised or incorporated into traditional educational structures also serves as reason as to why many, including myself, were not particularly drawn to the idea of it in the first place. We clearly lack the exposure. Instead of being embedded into middle school and high school learning curriculums (as it should be in our increasingly technologically changing world), it is only offered as an after school club. An after thought. This, while providing a space for passionate individuals to create collectively, is not enough. According to British computer scientist [Simon Peyton Jones](https://www.youtube.com/watch?v=Ia55clAtdMs), computing and coding should be targeted universally. Only offering it as a club subjugates it to a rather shallow, unjustified, and old-fashioned image of being a club for "nerds". 
 
-### Computing? 🙅‍♀️ Creative computing? 🤰
-Pairing the concept of computation with design relieved some of my internal stressors about how seemingly "unfit" I was for the subject. I learned that art and design have as much a place in the computation field as science, technology, engineering and math already have. Human computer interaction (HCI), computer-aided design. Combining technology with art allows for a sort of "controlled randomness", transformation, exciting new patterns and colours, endless idea generation and a synthesis of all things that make great design and art, great.
-
 <img width="818" alt="Screenshot 2021-11-12 at 10 05 12 AM" src="https://user-images.githubusercontent.com/93985229/141449246-ceea9b1d-2d55-419a-b5f5-ade5bd910089.png">
 
 [Free Word Cloud Generator](https://www.freewordcloudgenerator.com/)
+
+### Computing? 🙅‍♀️ Creative computing? 🤰
+Pairing the concept of computation with design relieved some of my internal stressors about how seemingly "unfit" I was for the subject. I learned that art and design have as much a place in the computation field as science, technology, engineering and math. Combining technology with art allows for a sort of "controlled randomness", transformation, exciting new patterns and colours, endless idea generation and a synthesis of all things that make great design and art, great.
 
 ![Strategy-Creative-Algorithm-Human-vs-Machine-Model-Green](https://user-images.githubusercontent.com/93985229/141434176-c9ed9a3c-fa1b-41b4-9f26-932f6b2d71cd.png)
 [Patrick Huebner](https://www.patrik-huebner.com/method)
