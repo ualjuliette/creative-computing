@@ -77,4 +77,4 @@ I would like to conclude with this quote (from [Why Love Generative Art](https:/
   
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
 
-It is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
+It is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. It embodies however, the explorative, spontaneous and imaginative side of creative computing. 
