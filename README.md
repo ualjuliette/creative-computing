@@ -59,6 +59,10 @@ Here are some examples of contemporary new media artists using technology to pro
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
   
+* [Anne Spalter](https://superrare.com/aspalter7) specialises in digital mixed media, influenced by Buddhist art and Surrealism. 
+  
+![Uploading luckycatsatnightfinalNFT.jpg…]()
+  
 *****************************************************
   
 ### Okay, and? 😀
