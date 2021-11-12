@@ -1,18 +1,2 @@
 # creative-computing
-<h1> this is what header 1 looks like
-<h2> this is what header 2 looks like
-  
-*one* star *italicise*
-**two** stars **bolds** (I learnt this in WhatsApp)
-  
-you can also write a > quote > 
-- [x] 
-- [] is  
-  
-# i have no idea what is happening, but at least I'm trying :') 
-  
-  
-> let's try another blockquote
-> omg it worked im a genius
-
-> code transcends language, and to me, that's beautiful. 
+I will admit when I first saw the title of our next section, "creative computing", my first reaction was one of aversion. I was not in the right headspace for math or science of any kind. I had never been very adept at those subjects in high school, although I did find myself enjoying them on the occasion that I had actually understood what I was lerarning. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. The part where it all changed, was the first word: creative. Creative computing. It kind of sounds nice and catchy together, perhaps due to the alliteration of the "c". Computing by itself does have a level of mysticality and obfuscation to it, which can make it quite an alienating subject. It is not something incorporated into traditional educational structures, so I guess it was normal of me to have the intial reaction that I had. Mind you, it was the same one I had when we were first introduced to the "computational thinking" Friday lectures. 
