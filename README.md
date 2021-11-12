@@ -55,14 +55,14 @@ Here are some examples of contemporary new media artists using technology to pro
 
 ![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
   
-* [Mario Klingemann](https://quasimondo.com/) specialises in algorithms and artificial intelligence to create and investigate systems. 
+* [Mario Klingemann](https://quasimondo.com/) specialises in algorithms and artificial intelligence to create and investigate traditional art systems. 
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
   
 * [Anne Spalter](https://superrare.com/aspalter7) specialises in digital mixed media, influenced by Buddhist art and Surrealism. 
   
 ![Uploading luckycatsatnightfinalNFT.jpg…]()
-  
+
 *****************************************************
   
 ### Okay, and? 😀
