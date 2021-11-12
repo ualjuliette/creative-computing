@@ -2,13 +2,13 @@
 
 ### Make it make sense 😩
 
-I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. I was not in the right headspace for math or science of any kind. I thought I had left all of that behind in high school. I had never been very adept at these subjects in high school, although I did find myself enjoying them on the occasion that I had *actually understood* what I was lerarning. 
+I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. I was not in the right headspace for math or science of any kind. I had left all of that behind in high school. I had never been very adept at these subjects in high school, although I did find myself enjoying them on the occasion that I had *actually understood* what I was lerarning. 
 
 ![e1c214158691365f8cda1760fed59fcf](https://user-images.githubusercontent.com/93985229/141436845-8b0ecfdb-350e-41f4-9325-715536ceb139.jpg)
 
 [Make a Meme](https://makeameme.org/meme/not-sure-if-5ba881)
 
-Though, I would like to point out that I do not want perpetuate the scientific vs artistic stereotype, nor the gender stereotypes that are associated with it. Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. Major faux pas. Like with anything in life, "don't knock it till you've tried it". 
+Though, I would like to point out that I am not trying to perpetuate the scientific vs artistic stereotype, nor the gender stereotypes that are associated with it. Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. Major faux pas. Like with anything in life, "don't knock it till you've tried it". 
 
 Recently however, Joel's Friday computational thinking lectures have helped me recognise the value of **applied mathematics**. 
 
