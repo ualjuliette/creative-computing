@@ -79,4 +79,8 @@ I would like to conclude with this quote (from [Why Love Generative Art](https:/
 
 Quite radical, in my opinion. It seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. However, as designers, we realise that aesthethics must be paired with function and utility. Art is not simply decorative, it has purpose: provoking thought, questioning voices of authority, transmitting messages that speak universally. Nevertheless, Klingemann's perspective is important to consider because it embodies and promotoes the explorative, spontaneous and imaginative nature of creative computing. 
   
-Thank you for coming to my Ted Talk xx
+*****************************************************
+  
+![thank-you-for-coming-to-my-ted-talk-and-good-39751169](https://user-images.githubusercontent.com/93985229/141477843-6abf79f3-2b27-489f-99a4-29a87b1088c7.png)
+
+(Source: [Meme](https://me.me/))
