@@ -1,6 +1,6 @@
 # `My tHouGhTs on the field of creative computing` 💻
 
-Written by Juliette Maisonneuve
+By Juliette Maisonneuve
 
 ### Make it make sense 😩
 
