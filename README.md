@@ -1,4 +1,4 @@
-# 💭 on the field of creative computing
+# Thought on the field of creative computing 💭 
 
 ### Make it make sense 😩
 
