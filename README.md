@@ -8,7 +8,9 @@ I will admit when I first saw the title of our next section, "`creative computin
 
 [Make a Meme](https://makeameme.org/meme/not-sure-if-5ba881)
 
-\*I would like to point out that I am not trying to perpetuate the scientific vs artistic stereotype, nor the gender stereotypes that are associated with it. Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. Major faux pas. Like with anything in life, "don't knock it till you've tried it". 
+\*<sub>I would like to point out that I am not trying to perpetuate the scientific vs artistic stereotype, nor the gender stereotypes that are associated with it.<sub> 
+
+Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. Major faux pas. Like with anything in life, "don't knock it till you've tried it". 
 
 Recently however, Joel's Friday computational thinking lectures have helped me recognise the value of **applied mathematics**. 
 
