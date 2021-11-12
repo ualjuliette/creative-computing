@@ -42,6 +42,8 @@ Here are some examples
 
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
   
-- Mario Klingemann [Why Love Generative Art]("https://www.artnome.com/news/2018/8/8/why-love-generative-art")
+- Mario Klingemann 
+  
+[Why Love Generative Art]("https://www.artnome.com/news/2018/8/8/why-love-generative-art")
   
   
