@@ -1,4 +1,4 @@
-# Thoughts on the field of creative-computing
+# Thoughts on the field of creative computing
 
 ### Introduction
 
@@ -9,6 +9,8 @@ I will admit when I first saw the title of our next section, "`creative computin
 [Make a Meme](https://makeameme.org/meme/not-sure-if-5ba881)
 
 Though, I would like to point out that I do not want perpetuate the scientific vs artistic stereotype, nor the gender stereotypes that are associated with it. Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having tried it. Major faux pas. Like with anything in life, "don't knock it till you've tried it". 
+
+### It's beginning to make sense
 
 The part where my perspective changed, was in realising the first word: creative. Creative computing. It kind of sounds nice and catchy together, perhaps due to the alliteration of the "c". Computing by itself does have a daunting level of mysticality and obfuscation to it, which can make it quite an alienating subject. The fact that it has not yet become normalised or incorporated into traditional educational structures also serves as reason as to why many, including myself, were not particularly drawn to the idea of it in the first place. We clearly lack the exposure. Instead of being embedded into middle school and high school learning curriculums (as it should be in our increasingly technologically changing world), it is only offered as an after school club. An after thought. This, while providing a space for passionate individuals to create collectively, is not enough. According to British computer scientist [Simon Peyton Jones](https://www.youtube.com/watch?v=Ia55clAtdMs), computing and coding should be targeted universally. Only offering it as a club subjugates it to a rather shallow, unjustified, and old-fashioned image of being a club for "nerds". 
 
