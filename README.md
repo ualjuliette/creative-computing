@@ -1,5 +1,7 @@
 # `My tHouGhTs on the field of creative computing` 💭💻
 
+Written by Juliette Maisonneuve
+
 ### Make it make sense 😩
 
 I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. 
