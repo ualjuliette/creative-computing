@@ -14,7 +14,5 @@ However, pairing the concept of computation with design relieved some of my inte
 <img width="818" alt="Screenshot 2021-11-12 at 10 05 12 AM" src="https://user-images.githubusercontent.com/93985229/141449246-ceea9b1d-2d55-419a-b5f5-ade5bd910089.png">
 [Free Word Cloud Generator](https://www.freewordcloudgenerator.com/)
 
-Text
-
 ![Strategy-Creative-Algorithm-Human-vs-Machine-Model-Green](https://user-images.githubusercontent.com/93985229/141434176-c9ed9a3c-fa1b-41b4-9f26-932f6b2d71cd.png)
 [Patrick Huebner](https://www.patrik-huebner.com/method)
