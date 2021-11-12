@@ -51,19 +51,19 @@ Pairing the concept of computation with design relieved some of my internal stre
 
 Here are some examples I found of contemporary new media artists using technology to produce generative art because show > tell:
   
-* [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM) specialises in data-driven machine learning algorithms that create abstract, dream-like environments.
+* [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM) is Turkish-American and specialises in data-driven machine learning algorithms that create abstract, dream-like environments.
 
 ![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
   
-* [Mario Klingemann](https://quasimondo.com/) specialises in algorithms and artificial intelligence to create and investigate traditional art systems. 
+* [Mario Klingemann](https://quasimondo.com/) is German and specialises in algorithms and artificial intelligence to create and investigate traditional art systems. 
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
   
-* [Anne Spalter](https://superrare.com/aspalter7) specialises in digital mixed media, influenced by Buddhist art and Surrealism. 
+* [Anne Spalter](https://superrare.com/aspalter7) is American and specialises in digital mixed media, influenced by Buddhist art and Surrealism. 
  
 ![48300260427_958effea67_o](https://user-images.githubusercontent.com/93985229/141469663-11dfed81-c08a-412d-9ed5-cc563ef197dc.jpg)
   
-* [Itzel Yard](https://foundation.app/@ixshells)
+* [Itzel Yard](https://foundation.app/@ixshells) is Panamanian self-taught coding and underground artist who specialises in the meta-verse. 
  
 ![960x0](https://user-images.githubusercontent.com/93985229/141470455-856363e7-540c-43fb-bf69-b15fcf7db41e.jpg)
 
