@@ -14,7 +14,7 @@ Why?
 2. I had never been very adept at these subjects.
 3. I *thought* I had left all of that behind in high school. 
 
-Sometimes I would find myself enjoying math and science on the occasion that I had *actually understood* what I was learning.\* Unfortunately, this was quite rare though. 
+Sometimes I would find myself enjoying math and science on the occasion that I had *actually understood* what I was learning and did not feel like a complete noob.\*.
 
 ![e1c214158691365f8cda1760fed59fcf](https://user-images.githubusercontent.com/93985229/141436845-8b0ecfdb-350e-41f4-9325-715536ceb139.jpg)
 
