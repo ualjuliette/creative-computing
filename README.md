@@ -44,8 +44,8 @@ Pairing the concept of computation with design relieved some of my internal stre
 
 Here are some examples of artists using technology to produce generative art:
 
-*[Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
-*[
+* [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
+  
   
 
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
