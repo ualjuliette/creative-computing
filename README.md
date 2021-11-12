@@ -73,6 +73,8 @@ Here are some examples I found of contemporary new media artists using technolog
   
 The bottom line is technology helps us do things faster. It is not a replacement to human creativity. It is like a little helper. It can help us curate data to showcase different perspectives. 
 
-This quote (from [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)) by German artist Mario Klingemann, is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
+I would like to conclude with this quote (from [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)) by German artist Mario Klingemann: 
   
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
+
+It is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
