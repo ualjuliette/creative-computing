@@ -22,9 +22,7 @@ Sometimes, I would find myself enjoying them on the occasion that I had *actuall
 
 <sub>\*I would like to point out that I am not trying to perpetuate the scientific versus artistic stereotype, nor the gender stereotypes that are associated with it.<sub> 
 
-Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having even tried it. Big oops. Like with anything in life, "don't knock it till you've tried it". I realised that I did not have to **LOVE** creative computing in order to see its value. 
-
-Recently however, Joel's Friday computational thinking lectures have helped me recognise the value of **applied mathematics**. 
+Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having even tried it. Big oops. Like with anything in life, "don't knock it till you've tried it". I realised that I did not have to **love** creative computing in order to see its value in a bigger context. For example, Joel's Friday computational thinking lectures have helped me recognise the value of **applied mathematics**. 
 
 ### It's beginning to make sense 💡
 
