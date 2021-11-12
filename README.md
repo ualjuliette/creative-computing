@@ -33,7 +33,7 @@ The part where my perspective changed, was in realising the first word: **creati
 [Free Word Cloud Generator](https://www.freewordcloudgenerator.com/)
 
 ### Computing? 🙅‍♀️ Creative computing? 🤰
-Pairing the concept of computation with design relieved some of my internal stressors about how seemingly "unfit" I was for the subject. I learned that art and design have as much a place in the computation field as science, technology, engineering and math. Combining technology with art allows for a sort of "controlled randomness", transformation, exciting new patterns and colours, endless idea generation and a synthesis of all things that make great design and art, great.
+Pairing the concept of computation with design relieved some of my internal stressors about how seemingly "unfit" I was for the subject. I learned that art and design have as much a place in the computation field as have science, technology, engineering and math. Combining technology with art allows for a sort of "controlled randomness", transformation, exciting new patterns and colours, endless idea generation and a synthesis of all things that make great design and art, great.
 
 ![Strategy-Creative-Algorithm-Human-vs-Machine-Model-Green](https://user-images.githubusercontent.com/93985229/141434176-c9ed9a3c-fa1b-41b4-9f26-932f6b2d71cd.png)
 [Patrick Huebner](https://www.patrik-huebner.com/method)
