@@ -18,4 +18,4 @@ However, pairing the concept of computation with design relieved some of my inte
 ![Strategy-Creative-Algorithm-Human-vs-Machine-Model-Green](https://user-images.githubusercontent.com/93985229/141434176-c9ed9a3c-fa1b-41b4-9f26-932f6b2d71cd.png)
 [Patrick Huebner](https://www.patrik-huebner.com/method)
 
-Have you ever felt like the feeling of  n o t h i n g can  be as overwhelming as the feeling of everything? 
+Have you ever felt like the feeling of  n o t h i n g can  be as overwhelming as the feeling of e v e r y t h i n g? 
