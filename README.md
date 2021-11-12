@@ -77,4 +77,4 @@ I would like to conclude with this quote (from [Why Love Generative Art](https:/
   
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
 
-It is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. As designers, we understand that aesthethics and function work as a pair. However, Klingemann's perspective is still interesting to consider because it embodies the explorative, spontaneous and imaginative nature of creative computing. 
+Quite radical, in my opinion. It seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. As designers, we understand that aesthethics and function work as a pair. However, Klingemann's perspective is still interesting to consider because it embodies the explorative, spontaneous and imaginative nature of creative computing. 
