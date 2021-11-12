@@ -2,7 +2,10 @@
 
 ### Make it make sense 😩
 
-I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. Why?
+I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. 
+
+Why?
+
 1. I was not in the right headspace for math or science of any kind. 
 2. I had left all of that behind in high school. 
 3. I had never been very adept at these subjects in high school, although I did find myself enjoying them on the occasion that I had *actually understood* what I was lerarning.\*
