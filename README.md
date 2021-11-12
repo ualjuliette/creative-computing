@@ -52,7 +52,7 @@ Here are some examples of artists using technology to produce generative art:
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
 
-### What does it all mean? 
+### Okay, and? 
   
 This quote (from [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)) by German artist Mario Klingemann, is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
   
