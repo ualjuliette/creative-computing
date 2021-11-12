@@ -26,6 +26,8 @@ Why?
 
 Simply put, I lacked the confidence in these areas. I respected and admired them, but failed to imagine myself engaging with them proprely. That was where lied the problem. Because I did not consider myself to be the "math" or "science" type, I had closed myself off to the idea of computing entirely, without having even tried it. Big oops. Like with anything in life, "don't knock it till you've tried it". I realised that I did not have to **love** creative computing in order to see its value in the real world (shout-out to Joel's Friday computational thinking lectures).
   
+*****************************************************
+  
 ### It's beginning to make sense 💡
   
 ![73910696](https://user-images.githubusercontent.com/93985229/141462959-03217879-90ca-4e19-9918-8715bc46755a.jpg)
@@ -37,7 +39,9 @@ The part where my perspective changed, was in realising the first word: **creati
 <img width="818" alt="Screenshot 2021-11-12 at 10 05 12 AM" src="https://user-images.githubusercontent.com/93985229/141449246-ceea9b1d-2d55-419a-b5f5-ade5bd910089.png">
 
 (Source: [Free Word Cloud Generator](https://www.freewordcloudgenerator.com/))
-
+  
+*****************************************************
+  
 ### ~~Computing?~~ 🙅‍♀️ Creative computing? 🤰
 Pairing the concept of computation with design relieved some of my internal stressors about how seemingly "unfit" I was for the subject. I learned that art and design have as much a place in the computation field as have science, technology, engineering and math. Combining technology with art allows for a sort of "controlled randomness", transformation, exciting new patterns and colours, endless idea generation and a synthesis of all things that make great design and art, great.
 
@@ -54,7 +58,9 @@ Here are some examples of contemporary artists using technology to produce gener
 * [Mario Klingemann](https://quasimondo.com/)
 
 ![02_Memories_of_Passersby_I©_Mario_Klingemann_Courtesy_Onkaos_1](https://user-images.githubusercontent.com/93985229/141464610-70fb98a0-12c0-43b0-b102-272979d72df3.jpg)
-
+  
+*****************************************************
+  
 ### Okay, and? 😀
   
 Technology helps us do things faster. It is not a replacement to human creativity. It is like a little helper. It can help us curate data to showcase different perspectives. 
