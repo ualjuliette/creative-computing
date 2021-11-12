@@ -44,3 +44,4 @@ Here are some examples of using technology to produce generative art.
   
 [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
   
+This quote by German artist, Mario Klingemann, is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguable, most essential and defining in the Arts. 
