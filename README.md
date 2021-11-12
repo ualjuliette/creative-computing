@@ -26,7 +26,7 @@ Simply put, I lacked the confidence in these areas. I respected and admired them
   
 ### It's beginning to make sense 💡
   
-![Uploading 73910696.jpg…]()
+![73910696](https://user-images.githubusercontent.com/93985229/141462959-03217879-90ca-4e19-9918-8715bc46755a.jpg)
 
 [Meme Generator](https://memegenerator.net/instance/73910696/a-whole-new-world-a-whole-new-world)  
   
