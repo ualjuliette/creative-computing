@@ -61,7 +61,7 @@ Here are some examples of contemporary new media artists using technology to pro
   
 * [Anne Spalter](https://superrare.com/aspalter7) specialises in digital mixed media, influenced by Buddhist art and Surrealism. 
   
-![Uploading luckycatsatnightfinalNFT.jpg…]()
+![Uploading luckycatsatnightfinalNFT.jpg…](https://superrare.com/kate_vass)
 
 *****************************************************
   
