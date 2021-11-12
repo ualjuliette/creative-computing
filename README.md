@@ -19,3 +19,10 @@ However, pairing the concept of computation with design relieved some of my inte
 [Patrick Huebner](https://www.patrik-huebner.com/method)
 
 Have you ever felt like the feeling of  n o t h i n g can  be as overwhelming as the feeling of **e v e r y t h i n g**? 
+When the weight has not yet d
+                              r
+                                o 
+                                  p
+                                    p 
+                                      e
+                                        d
