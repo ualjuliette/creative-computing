@@ -63,7 +63,7 @@ Here are some examples I found of contemporary new media artists using technolog
  
 ![48300260427_958effea67_o](https://user-images.githubusercontent.com/93985229/141469663-11dfed81-c08a-412d-9ed5-cc563ef197dc.jpg)
   
-* [Itzel Yard](https://foundation.app/@ixshells) is Panamanian self-taught coding and underground artist who specialises in the meta-verse. 
+* [Itzel Yard](https://foundation.app/@ixshells) is a Panamanian self-taught coding generative artist who specialises in the meta-verse. 
  
 ![960x0](https://user-images.githubusercontent.com/93985229/141470455-856363e7-540c-43fb-bf69-b15fcf7db41e.jpg)
 
