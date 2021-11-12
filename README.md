@@ -1,4 +1,4 @@
-# `Thoughts on the field of creative computing` 💭💻
+# `My tHouGhTS on the field of creative computing` 💭💻
 
 ### Make it make sense 😩
 
