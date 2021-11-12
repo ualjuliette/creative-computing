@@ -1,6 +1,6 @@
-# thoughts on the field of creative-computing
+# Thoughts on the field of creative-computing
 
-## Introduction
+### Introduction
 
 I will admit when I first saw the title of our next section, "`creative computing`", my first reaction was one of aversion. I was not in the right headspace for math or science of any kind. I had left all of that behind in high school, along with feelings of frustration and despair that had become synonymous with any practice involving math. I had never been very adept at these subjects in high school, although I did find myself enjoying them on the occasion that I had actually understood what I was lerarning. 
 
