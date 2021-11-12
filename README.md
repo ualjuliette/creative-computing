@@ -6,6 +6,8 @@ I will admit when I first saw the title of our next section, "`creative computin
 
 <img width="674" alt="Screenshot 2021-11-12 at 10 48 38 AM" src="https://user-images.githubusercontent.com/93985229/141455022-6528bdda-125c-41e4-863f-c417547c758f.png">
 
+[Oxford Languages](https://www.google.com/search?q=aversion+define&oq=aversion+define&aqs=chrome.0.69i59j0i22i30l9.2980j0j9&sourceid=chrome&ie=UTF-8)
+
 Why?
 
 1. I was not in the right headspace for math or science of any kind. 
