@@ -1,4 +1,4 @@
-# `My tHouGhTs on the field of creative computing` 💭💻
+# `My tHouGhTs on the field of creative computing` 💻
 
 Written by Juliette Maisonneuve
 
