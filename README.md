@@ -49,7 +49,7 @@ Pairing the concept of computation with design relieved some of my internal stre
   
 (Source: [Patrick Huebner](https://www.patrik-huebner.com/method))
 
-Here are some examples of contemporary new media artists using technology to produce generative art because show > tell:
+Here are some examples I found of contemporary new media artists using technology to produce generative art because show > tell:
   
 * [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM) specialises in data-driven machine learning algorithms that create abstract, dream-like environments.
 
