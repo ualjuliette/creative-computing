@@ -54,4 +54,4 @@ Here are some examples of artists using technology to produce generative art:
 
 >"I personally prefer ugly over boring, conventional, normal, non-challenging or derivative."
   
-This quote by German artist, Mario Klingemann (from [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)), is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
+This quote (from [Why Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)) by German artist Mario Klingemann, is quite radical as it seems to contradict the prerequisite of beauty and aesthethics being the arguably, most essential and defining features of the Arts. 
