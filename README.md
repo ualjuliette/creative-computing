@@ -53,9 +53,7 @@ Here are some examples of contemporary new media artists using technology to pro
   
 * [Refik Anadol](https://www.youtube.com/watch?v=I-EIVlHvHRM)
 
-![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
-  
-Data-driven machine learning algorithms that create abstract, dream-like environments. 
+{{<Data-driven machine learning algorithms that create abstract, dream-like environments. >}} ![109057](https://user-images.githubusercontent.com/93985229/141463650-5fad8cf7-4c0d-4551-9601-6ef5416362b2.jpg)
   
 * [Mario Klingemann](https://quasimondo.com/)
 
