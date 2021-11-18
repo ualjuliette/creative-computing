@@ -89,8 +89,8 @@ Quite radical, in my opinion. It seems to contradict the prerequisite of beauty 
   
 Using a combination of Acrylicode's drawing harmonisation tool and Adobe Illustrator, I experimented with making an abstract typeface from free-handed letters, as well as a series of abstract shapes (inspired by kaleidoscopes) investigating patterns and colour theory. 
 
-<img width="748" alt="Screenshot 2021-11-17 at 7 54 10 PM" src="https://user-images.githubusercontent.com/93985229/142366064-2361cda6-3c39-43c6-8a69-93a02e839a15.png">
+<img width="1038" alt="Screenshot 2021-11-17 at 2 12 29 PM" src="https://user-images.githubusercontent.com/93985229/142366745-924c3fdf-5898-4087-949f-c9dd869651d1.png">
 
-<img width="748" alt="Screenshot 2021-11-17 at 7 54 10 PM" src="https://user-images.githubusercontent.com/93985229/142365865-1a6ba122-5ded-42fd-84f1-e45282e3a73e.png">
+<img width="748" alt="Screenshot 2021-11-17 at 7 54 10 PM" src="https://user-images.githubusercontent.com/93985229/142366064-2361cda6-3c39-43c6-8a69-93a02e839a15.png">
 
 Going into it, I did not have anything specific in mind for what I wanted to create, so the outcomes are largely experimental and spontaenous. However, I was able to refine the outcomes by creating a [short film](https://youtu.be/x1Ip9YQMPME) about digital art and its creative potential. 
