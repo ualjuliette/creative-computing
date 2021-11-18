@@ -93,4 +93,4 @@ Using a combination of Acrylicode's drawing harmonisation tool and Adobe Illustr
 
 <img width="748" alt="Screenshot 2021-11-17 at 7 54 10 PM" src="https://user-images.githubusercontent.com/93985229/142366064-2361cda6-3c39-43c6-8a69-93a02e839a15.png">
 
-Going into it, I did not have anything specific in mind for what I wanted to create, so the outcomes are largely experimental and spontaenous. However, I was able to refine the outcomes by creating a [short film](https://youtu.be/x1Ip9YQMPME) about digital art and its creative potential. Let me know what you think in the comment section!
+Going into it, I did not have anything specific in mind for what I wanted to create, so the outcomes are largely experimental and spontaenous. However, I was able to refine the outcomes by creating a [short film](https://youtu.be/x1Ip9YQMPME) about digital art and its creative potential. Feel free to let me know what you think in the comment section!
