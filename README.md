@@ -82,3 +82,16 @@ Quite radical, in my opinion. It seems to contradict the prerequisite of beauty 
 <img width="501" alt="Screenshot 2021-11-12 at 1 55 51 PM" src="https://user-images.githubusercontent.com/93985229/141478291-479e8fd1-9758-4689-8d42-a7386653d4d3.png">
 
 (Source: [Meme](https://me.me/))
+  
+*****************************************************
+  
+### My creative response 🧑‍🎨
+  
+Using a combination of Acrylicode's drawing harmonisation tool and Adobe Illustrator, I experimented with making an abstract typeface from free-handed letters, as well as a series of abstract shapes (inspired by kaleidoscopes) investigating patterns and colour theory. 
+
+<img width="1038" alt="Screenshot 2021-11-17 at 2 12 29 PM" src="https://user-images.githubusercontent.com/93985229/142365917-8c5dec86-68a6-48d3-99d7-88423e183e07.png">
+
+<img width="748" alt="Screenshot 2021-11-17 at 7 54 10 PM" src="https://user-images.githubusercontent.com/93985229/142365865-1a6ba122-5ded-42fd-84f1-e45282e3a73e.png">
+
+Going into it, I did not have anything specific in mind for what I wanted to create, so the outcomes are largely experimental and spontaenous. However, I was able to refine the outcomes by creating a short film about digital art and its creative potential. 
+
